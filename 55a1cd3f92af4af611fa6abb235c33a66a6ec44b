@@ -1,0 +1,23 @@
+gooddata-pandas/tests/dataframe/test_dataframe_for_exec_def_arrow.py
+  5dca571bb44b58a5 4,10,15,20-48,84,91,189-234
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.12",
+  "base_commit_sha": "55a1cd3f92af4af611fa6abb235c33a66a6ec44b",
+  "prompts": {
+    "5dca571bb44b58a5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "82f514b4-afdf-446b-893b-6221a3355e95",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mikezelenskyy <mykhaylo.zelenskyy@gooddata.com>",
+      "messages": [],
+      "total_additions": 110,
+      "total_deletions": 43,
+      "accepted_lines": 80,
+      "overriden_lines": 0
+    }
+  }
+}
