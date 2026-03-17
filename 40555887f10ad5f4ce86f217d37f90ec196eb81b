@@ -1,0 +1,69 @@
+gooddata-pandas/gooddata_pandas/dataframe.py
+  5dca571bb44b58a5 348-378
+gooddata-sdk/gooddata_sdk/compute/model/execution.py
+  5dca571bb44b58a5 372-377,379-389,391
+  10df2f994048026e 7,14,371,378,390
+gooddata-sdk/type-requirements.txt
+  10df2f994048026e 7
+gooddata-api-client/gooddata_api_client/api/actions_api.py
+  5dca571bb44b58a5 4049-4114,10776-10822
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.12",
+  "base_commit_sha": "40555887f10ad5f4ce86f217d37f90ec196eb81b",
+  "prompts": {
+    "0264d24dbc71ac9a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "08688518-a3a5-40dc-bd72-6c0ae86567b5",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mikezelenskyy <mykhaylo.zelenskyy@gooddata.com>",
+      "messages": [],
+      "total_additions": 356,
+      "total_deletions": 34,
+      "accepted_lines": 219,
+      "overriden_lines": 0
+    },
+    "10df2f994048026e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0ce1ebcd-ef82-4a58-921c-6148fa169589",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mikezelenskyy <mykhaylo.zelenskyy@gooddata.com>",
+      "messages": [],
+      "total_additions": 9,
+      "total_deletions": 8,
+      "accepted_lines": 6,
+      "overriden_lines": 0
+    },
+    "5dca571bb44b58a5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "82f514b4-afdf-446b-893b-6221a3355e95",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mikezelenskyy <mykhaylo.zelenskyy@gooddata.com>",
+      "messages": [],
+      "total_additions": 638,
+      "total_deletions": 109,
+      "accepted_lines": 520,
+      "overriden_lines": 1
+    },
+    "ab331d32afc25f16": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3a5c89fd-5cec-465e-974a-c27a3a8a9841",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mikezelenskyy <mykhaylo.zelenskyy@gooddata.com>",
+      "messages": [],
+      "total_additions": 207,
+      "total_deletions": 106,
+      "accepted_lines": 204,
+      "overriden_lines": 0
+    }
+  }
+}
