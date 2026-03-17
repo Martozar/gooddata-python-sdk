@@ -1,0 +1,25 @@
+gooddata-pandas/gooddata_pandas/arrow_convertor.py
+  5dca571bb44b58a5 187-283
+gooddata-pandas/gooddata_pandas/dataframe.py
+  5dca571bb44b58a5 54-56,355,362-368,380-383,390-400
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.12",
+  "base_commit_sha": "9358f7e0d013a872080630b05033a6994c307961",
+  "prompts": {
+    "5dca571bb44b58a5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "82f514b4-afdf-446b-893b-6221a3355e95",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mikezelenskyy <mykhaylo.zelenskyy@gooddata.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 1754,
+      "overriden_lines": 0
+    }
+  }
+}
