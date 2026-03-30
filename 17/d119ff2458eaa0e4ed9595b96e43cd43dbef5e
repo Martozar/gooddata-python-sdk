@@ -1,0 +1,56 @@
+gooddata-pandas/gooddata_pandas/__init__.py
+  de22b6242a06dfab 5-9
+gooddata-pandas/gooddata_pandas/arrow_convertor.py
+  4c38ea67b1743eb3 317-432
+gooddata-pandas/gooddata_pandas/dataframe.py
+  de22b6242a06dfab 4-7,435-483
+  4c38ea67b1743eb3 26-30,426,430-431
+gooddata-pandas/gooddata_pandas/result_convertor.py
+  de22b6242a06dfab 445
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.22",
+  "base_commit_sha": "17d119ff2458eaa0e4ed9595b96e43cd43dbef5e",
+  "prompts": {
+    "4c38ea67b1743eb3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e51d9bad-32c2-4631-9306-15e73b233872",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mikezelenskyy <mykhaylo.zelenskyy@gooddata.com>",
+      "messages": [],
+      "total_additions": 132,
+      "total_deletions": 3,
+      "accepted_lines": 124,
+      "overriden_lines": 0
+    },
+    "5dca571bb44b58a5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "82f514b4-afdf-446b-893b-6221a3355e95",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mikezelenskyy <mykhaylo.zelenskyy@gooddata.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 297,
+      "overriden_lines": 0
+    },
+    "de22b6242a06dfab": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6a975156-2012-40e7-bb5f-e01eb6b365ad",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mikezelenskyy <mykhaylo.zelenskyy@gooddata.com>",
+      "messages": [],
+      "total_additions": 99,
+      "total_deletions": 4,
+      "accepted_lines": 95,
+      "overriden_lines": 0
+    }
+  }
+}
