@@ -1,0 +1,36 @@
+gooddata-sdk/gooddata_sdk/catalog/export/service.py
+  de22b6242a06dfab 320-352
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.22",
+  "base_commit_sha": "ee912b2bff610c3d1df034329c8cb0f451e88e74",
+  "prompts": {
+    "5dca571bb44b58a5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "82f514b4-afdf-446b-893b-6221a3355e95",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mikezelenskyy <mykhaylo.zelenskyy@gooddata.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 297,
+      "overriden_lines": 0
+    },
+    "de22b6242a06dfab": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6a975156-2012-40e7-bb5f-e01eb6b365ad",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mikezelenskyy <mykhaylo.zelenskyy@gooddata.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 33,
+      "overriden_lines": 0
+    }
+  }
+}
