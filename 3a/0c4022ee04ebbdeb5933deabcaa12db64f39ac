@@ -1,0 +1,27 @@
+packages/gooddata-pandas/src/gooddata_pandas/result_convertor.py
+  de22b6242a06dfab 445
+packages/gooddata-pandas/src/gooddata_pandas/__init__.py
+  de22b6242a06dfab 10
+packages/gooddata-pandas/src/gooddata_pandas/dataframe.py
+  de22b6242a06dfab 307-308,460,513,584-585
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.22",
+  "base_commit_sha": "3a0c4022ee04ebbdeb5933deabcaa12db64f39ac",
+  "prompts": {
+    "de22b6242a06dfab": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6a975156-2012-40e7-bb5f-e01eb6b365ad",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mikezelenskyy <mykhaylo.zelenskyy@gooddata.com>",
+      "messages": [],
+      "total_additions": 20,
+      "total_deletions": 18,
+      "accepted_lines": 10,
+      "overriden_lines": 0
+    }
+  }
+}
