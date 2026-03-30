@@ -1,0 +1,25 @@
+packages/gooddata-pandas/pyproject.toml
+  de22b6242a06dfab 49-50
+packages/gooddata-sdk/pyproject.toml
+  de22b6242a06dfab 52-53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.22",
+  "base_commit_sha": "89f586173a53259c631f5fd7ae2eb58c4960eea8",
+  "prompts": {
+    "de22b6242a06dfab": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6a975156-2012-40e7-bb5f-e01eb6b365ad",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mikezelenskyy <mykhaylo.zelenskyy@gooddata.com>",
+      "messages": [],
+      "total_additions": 6,
+      "total_deletions": 7,
+      "accepted_lines": 6,
+      "overriden_lines": 0
+    }
+  }
+}
