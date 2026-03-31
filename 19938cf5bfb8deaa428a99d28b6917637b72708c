@@ -1,0 +1,36 @@
+packages/gooddata-pandas/tests/dataframe/test_dataframe_for_exec_def_arrow.py
+  44d857b27c698e3e 335-362
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.23",
+  "base_commit_sha": "19938cf5bfb8deaa428a99d28b6917637b72708c",
+  "prompts": {
+    "44d857b27c698e3e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "527557d6-a972-4f86-b3ca-cb472b7f349a",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mikezelenskyy <mykhaylo.zelenskyy@gooddata.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 28,
+      "overriden_lines": 0
+    },
+    "de22b6242a06dfab": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6a975156-2012-40e7-bb5f-e01eb6b365ad",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mikezelenskyy <mykhaylo.zelenskyy@gooddata.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 78,
+      "overriden_lines": 0
+    }
+  }
+}
