@@ -1,0 +1,36 @@
+packages/gooddata-pandas/src/gooddata_pandas/arrow_convertor.py
+  44d857b27c698e3e 26-55,57-81,129,139,226,275-277,311,329,339,374,420,448-450,457,527-530,538
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.23",
+  "base_commit_sha": "a1d2dc1524fc92d71cae2b641fd6f38083a48280",
+  "prompts": {
+    "44d857b27c698e3e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "527557d6-a972-4f86-b3ca-cb472b7f349a",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mikezelenskyy <mykhaylo.zelenskyy@gooddata.com>",
+      "messages": [],
+      "total_additions": 115,
+      "total_deletions": 29,
+      "accepted_lines": 103,
+      "overriden_lines": 1
+    },
+    "de22b6242a06dfab": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6a975156-2012-40e7-bb5f-e01eb6b365ad",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mikezelenskyy <mykhaylo.zelenskyy@gooddata.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 78,
+      "overriden_lines": 0
+    }
+  }
+}
