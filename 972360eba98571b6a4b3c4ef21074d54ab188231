@@ -1,0 +1,23 @@
+packages/gooddata-pandas/src/gooddata_pandas/arrow_convertor.py
+  20a8ae7aff23e298 9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.3",
+  "base_commit_sha": "972360eba98571b6a4b3c4ef21074d54ab188231",
+  "prompts": {
+    "20a8ae7aff23e298": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "46333cfd-bbaa-4ef4-84e2-ae3fe5ff364c",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mikezelenskyy",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
