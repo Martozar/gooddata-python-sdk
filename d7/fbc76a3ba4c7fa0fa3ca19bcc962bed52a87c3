@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.3",
+  "base_commit_sha": "d7fbc76a3ba4c7fa0fa3ca19bcc962bed52a87c3",
+  "prompts": {
+    "dc315a03e57b5e2f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "066ba63b-7920-4ef7-ad77-b15a4fcfcda5",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mikezelenskyy",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 3,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  }
+}
