@@ -1,0 +1,33 @@
+packages/gooddata-sdk/src/gooddata_sdk/catalog/entity.py
+  b6cfe32125259b87 259,280,300
+packages/gooddata-sdk/src/gooddata_sdk/compute/model/execution.py
+  b6cfe32125259b87 21-22
+packages/gooddata-sdk/src/gooddata_sdk/catalog/data_source/entity_model/data_source.py
+  b6cfe32125259b87 65
+packages/gooddata-sdk/src/gooddata_sdk/compute/model/filter.py
+  b6cfe32125259b87 12
+packages/gooddata-fdw/src/gooddata_fdw/executor.py
+  b6cfe32125259b87 5,46
+packages/gooddata-sdk/src/gooddata_sdk/type_converter.py
+  b6cfe32125259b87 30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.3",
+  "base_commit_sha": "677cfb14c57fc0c0b4e430378e511316f75a1fdb",
+  "prompts": {
+    "b6cfe32125259b87": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a485bcf6-f194-4224-a332-15c5a1804bec",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mikezelenskyy",
+      "messages": [],
+      "total_additions": 20,
+      "total_deletions": 20,
+      "accepted_lines": 10,
+      "overriden_lines": 0
+    }
+  }
+}
