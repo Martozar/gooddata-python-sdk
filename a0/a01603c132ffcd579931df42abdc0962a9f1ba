@@ -1,0 +1,43 @@
+generate_ground_truth.py
+  b2341acb4cc17f1a 1752
+packages/gooddata-pandas/tests/dataframe/test_dataframe_for_exec_def_arrow.py
+  cad3159f1f0895c7 23,508-803,805,807-812,814,816-904,26,909,911-915,919-927,930,936,939-940,952-957,960-961,966,972-975,978-979,982,991-993,996-997,1002-1003,1010,1013-1014,1017,1026-1028,1031-1032,1037-1040,1042-1047,1053-1056
+  b2341acb4cc17f1a 905,906-908,910,916-918,928-929,931-935,937-938,941-949,951,958-959,962-965,967-969,971,976-977,980-981,983-987,989-990,994-995,998-1001,1004-1007,1009,1011-1012,1015-1016,1018-1023,1025,1029-1030,1033-1036,1041,1048-1050,1052,1057-1125,1127-1147,1149-1210,1212-1241,1247,1257,1261,1263-1292
+packages/gooddata-pandas/src/gooddata_pandas/dataframe.py
+  cad3159f1f0895c7 32,450-451,470-474,533-534,554-559,574,576,580,128-130,147,181-183,199,266,312,475
+  b2341acb4cc17f1a 445-446,465,498,131,184,343,350,352-354,664-675,687,689,551-553
+  1045a97d3cff9ed0 105,161,212,276,322,612
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "a0a01603c132ffcd579931df42abdc0962a9f1ba",
+  "prompts": {
+    "b2341acb4cc17f1a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0d82568e-7586-45d3-b2b5-523598ec2ec6",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mikezelenskyy",
+      "messages": [],
+      "total_additions": 23,
+      "total_deletions": 8,
+      "accepted_lines": 33,
+      "overriden_lines": 0
+    },
+    "cad3159f1f0895c7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e79c11b2-c147-4a3d-a270-e63a9d698942",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mikezelenskyy",
+      "messages": [],
+      "total_additions": 228,
+      "total_deletions": 7,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
