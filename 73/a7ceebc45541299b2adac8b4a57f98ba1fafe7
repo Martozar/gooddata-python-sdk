@@ -1,0 +1,66 @@
+packages/gooddata-pandas/src/gooddata_pandas/arrow_convertor.py
+  cad3159f1f0895c7 13,149-157,165,230-231,250,274-276,297,302,308-310,321,339-352,356-357,359,672,751,754
+  b2341acb4cc17f1a 47-59,65-68,82,360-361,369,373,377-378,380,388,444-445,466-468,487,493,502-506,521-522,611-612,647-649,746-748
+  1045a97d3cff9ed0 123,353-355,358,750,752-753,755
+packages/gooddata-pandas/src/gooddata_pandas/arrow_types.py
+  b2341acb4cc17f1a 4,23-27,29,34,36-54
+  1045a97d3cff9ed0 28,30-33,35
+packages/gooddata-pandas/src/gooddata_pandas/dataframe.py
+  cad3159f1f0895c7 32,142-144,161,194-196,212,469,471,475,492-493,515-520,549-550,570-575,588,590,594
+  1045a97d3cff9ed0 91,99-104,108,136,141,188,193,340,388,413,415-416,420,428,504,599-603,607,652,654,656,658-659,661,675
+  b2341acb4cc17f1a 92-93,109,145,197,346,389-391,419,429-435,463-468,470,472-474,476-488,502-503,506-509,543,560-562,567-569,585-587,591-593,660,676-689
+packages/gooddata-pandas/src/gooddata_pandas/__init__.py
+  1045a97d3cff9ed0 4
+packages/gooddata-pandas/src/gooddata_pandas/data_access.py
+  b2341acb4cc17f1a 21-24,445,490-491
+  cad3159f1f0895c7 25,426-444,446-463,473,518-526
+packages/gooddata-pandas/src/gooddata_pandas/series.py
+  b2341acb4cc17f1a 13-19,42,72,77-80,96,111,143,148-151,172
+  1045a97d3cff9ed0 152-157
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "73a7ceebc45541299b2adac8b4a57f98ba1fafe7",
+  "prompts": {
+    "1045a97d3cff9ed0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "66b3a9d1-e840-46c3-8bdb-42fdf1f10516",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mikezelenskyy",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 55,
+      "overriden_lines": 0
+    },
+    "b2341acb4cc17f1a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0d82568e-7586-45d3-b2b5-523598ec2ec6",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mikezelenskyy",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 176,
+      "overriden_lines": 0
+    },
+    "cad3159f1f0895c7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e79c11b2-c147-4a3d-a270-e63a9d698942",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mikezelenskyy",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 113,
+      "overriden_lines": 0
+    }
+  }
+}
