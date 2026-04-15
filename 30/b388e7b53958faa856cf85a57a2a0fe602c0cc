@@ -1,0 +1,36 @@
+packages/gooddata-pandas/src/gooddata_pandas/good_pandas.py
+  988f7d3bf218ee36 10,28-29,39-45,52-53,71-72,114-119
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "30b388e7b53958faa856cf85a57a2a0fe602c0cc",
+  "prompts": {
+    "1045a97d3cff9ed0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "66b3a9d1-e840-46c3-8bdb-42fdf1f10516",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mikezelenskyy",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 1210,
+      "overriden_lines": 0
+    },
+    "988f7d3bf218ee36": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5bc5249b-2c41-4884-a091-1e8a24b9a6dc",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mikezelenskyy",
+      "messages": [],
+      "total_additions": 23498,
+      "total_deletions": 1,
+      "accepted_lines": 23498,
+      "overriden_lines": 0
+    }
+  }
+}
